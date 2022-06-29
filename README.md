@@ -1,7 +1,7 @@
 Hello. This is where I upload things that may be of interest or some usefulness to the community.
 ![image](https://user-images.githubusercontent.com/24400566/133180497-1f700284-3e91-449d-b571-f4e0d424a57c.png)
 
-Currently, I'm usually busy tinkering with DEC gear (and compatibles).
+Currently, I'm usually busy tinkering with Transputer garbage, sometimes DEC gear (and compatibles).
 
 While I don't attach a proper license to each repository, all the hardware published herein is free for personal use. You can get as many boards made as you'd like to, and even resell them, provided you do so at cost. Commercial, for-profit use is prohibited. Get in touch if in doubt.
 
