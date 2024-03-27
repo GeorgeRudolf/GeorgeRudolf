@@ -3,7 +3,7 @@ Hello. This is where I upload things that may be of interest or some usefulness 
 
 Currently, I'm usually busy tinkering with Transputer garbage, sometimes DEC gear (and compatibles).
 
-While I don't attach a proper license to each repository, all the hardware published herein is free for personal use. You can get as many boards made as you'd like to, and even resell them, provided you do so at cost. Commercial, for-profit use is prohibited. Get in touch if in doubt.
+While I don't attach a proper license to each repository, unless otherwise specified, all the hardware published herein is free for personal use. You can get as many boards made as you'd like to, and even resell them, provided you do so at cost. Commercial, for-profit use is prohibited. Get in touch if in doubt.
 
 If you need to reach me about something that is not an issue with the designs themselves (for that, please open an issue), feel free to do so by email, via george.rudolf.mezzomo (at-mark) gmail.com. If anything in here has helped you, and you feel like buying me a sandwich or a tin of mints, that address also doubles as PayPal tip jar 😃
 
